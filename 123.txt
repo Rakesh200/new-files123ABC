@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 its 123 place changes made
+=======
+its 123 place we can chnage
+>>>>>>> 623a1e9dfa6f6d5ce896662442aaa102dee7f228
+
+changes made locally
